@@ -1,0 +1,23 @@
+{
+  "name": "moment-timezone-tsc",
+  "version": "0.5.5",
+  "description": "moment-timezone repacked with TypeScript 2.0 types",
+  "main": "index.js",
+  "typings": "index.d.js",
+  "keywords": [
+    "moment-timezone",
+    "typescript",
+    "wrap"
+  ],
+  "scripts": {
+    "compile": "exit 0;"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/implydata/moment-timezone-tsc.git"
+  },
+  "dependencies": {
+    "moment-timezone": "0.5.5"
+  }
+}
